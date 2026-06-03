@@ -1,3 +1,4 @@
+```vue
 <template>
   <div class="hud">
     <div class="hud-item">
